@@ -1,0 +1,13 @@
+'.source.vala':
+  'editor':
+    'commentStart': '// ',
+    'completions': [
+      'ArrayList'
+      'HashSet'
+      'HashMap'
+      'OptionArg'
+      'OptionContext'
+      'OptionEntry'
+      'stdout'
+      'stderr'
+    ]

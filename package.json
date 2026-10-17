@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "Vala language server support for pulsar.",
   "main": "lib/main.js",
-  "repository": "https://charadon.gothub.org/?action=summary&path=pulsar-ide-vala.git",
+  "repository": "https://github.com/Charadon/pulsar-ide-vala",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

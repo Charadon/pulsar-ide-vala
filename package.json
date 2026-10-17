@@ -1,6 +1,6 @@
 {
   "name": "pulsar-ide-vala",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Vala language server support for pulsar.",
   "main": "lib/main.js",
   "repository": "https://github.com/Charadon/pulsar-ide-vala",
